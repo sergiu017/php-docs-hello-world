@@ -63,4 +63,4 @@ jobs:
           app-name: 'ijlso'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4CC97C0E73A4974AC93A1DACAF2E501 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C5A05968B344388913E2253B765242F }}
